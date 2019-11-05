@@ -1,0 +1,28 @@
+﻿  karnaughDaThuc.cpp
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\karnaughDaThuc.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\karnaughDaThuc.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\karnaughDaThuc.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\karnaughDaThuc.cpp(35,26): warning C4018: '<': signed/unsigned mismatch
+  karnaughDonThuc.cpp
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\karnaughDaThuc.cpp(196,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\karnaughDonThuc.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+  maTran.cpp
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\karnaughDonThuc.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\maTran.cpp(70,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+  vector.cpp
+  xuLiChuoi.cpp
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\maTran.cpp(119,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(125,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(130,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Vinh\source\repos\18120650_18120653\18120650_18120653\xuLiChuoi.cpp(443,20): warning C4018: '<': signed/unsigned mismatch
+  18120650_18120653.vcxproj -> C:\Users\Vinh\source\repos\18120650_18120653\Debug\18120650_18120653.exe

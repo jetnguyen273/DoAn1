@@ -1,0 +1,10 @@
+﻿  karnaughDaThuc.cpp
+  karnaughDonThuc.cpp
+  maTran.cpp
+C:\Users\Vinh\Desktop\18120650_18120653\Source\18120650_18120653\18120650_18120653\maTran.cpp(70,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+  vector.cpp
+  xuLiChuoi.cpp
+  Generating Code...
+C:\Users\Vinh\Desktop\18120650_18120653\Source\18120650_18120653\18120650_18120653\maTran.cpp(119,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  18120650_18120653.vcxproj -> C:\Users\Vinh\Desktop\18120650_18120653\Source\18120650_18120653\x64\Debug\18120650_18120653.exe
